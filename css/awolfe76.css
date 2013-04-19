@@ -22,6 +22,8 @@ a:link, a:visited {
   -o-transition: .5s; /* Opera */
 }
 a:hover {
+  border-bottom: 1px solid #ffffff;
+  border-bottom: 1px solid rgba(0, 102, 153, 0);
   color: #006699;
   color: rgba(0, 102, 153, 1);
 }

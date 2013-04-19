@@ -8,9 +8,11 @@ permalink: /posts/designing-the-state-sequester-project.html
 ---
 <hr>
 
-##### Update
+#### Update
 
-I helped Mike created a [personal site]({% post_url 2013-04-19-helping-feomike %}), so the [State Sequester Project](http://feomike.github.io/post/example-state-sequester.html) is be  st viewed there. Although the original is still available (link below), for now.
+<p class="date">April 19, 2013</p>
+
+I helped Mike created a [personal site](/posts/helping-feomike.html), so the [State Sequester Project](http://feomike.github.io/post/example-state-sequester.html) is best viewed there. Although the original is still available (link below), for now.
 
 <hr>
 
