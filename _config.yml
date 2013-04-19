@@ -1,0 +1,17 @@
+#info
+title: awolfe76
+desc: Designing, organizing, architecting and building on the web for the past 13 years.
+disclaimer: Posts on this site are my own and in no way represent my employer at anytime. Some of the work, however, is work done for my employer(s).
+
+name: Andrew Wolfe
+email: awolfe76@gmail.com
+dribbble: http://dribbble.com/awolfe76
+github: https://github.com/awolfe76
+twitter: https://twitter.com/awolfe76
+
+#build config
+server: true
+auto: true
+markdown: rdiscount
+
+include: [_posts/_tests] 
