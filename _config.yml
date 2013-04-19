@@ -13,5 +13,3 @@ twitter: https://twitter.com/awolfe76
 server: true
 auto: true
 markdown: rdiscount
-
-include: [_posts/_tests] 
