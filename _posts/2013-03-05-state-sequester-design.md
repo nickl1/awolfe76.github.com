@@ -6,6 +6,14 @@ date: March 5, 2013
 
 permalink: /posts/designing-the-state-sequester-project.html
 ---
+<hr>
+
+##### Update
+
+I helped Mike created a [personal site]({% post_url 2013-04-19-helping-feomike %}), so the [State Sequester Project](http://feomike.github.io/post/example-state-sequester.html) is be  st viewed there. Although the original is still available (link below), for now.
+
+<hr>
+
 A co-worker, Mike Byrne - [@byrne_tweets](http://twitter.com/byrne_tweets), recently read a few articles talking about the state sequesters. Most of these articles presented data, but the data was not in a reusable format. The data was contained in PDFs or Powerpoint or something else that didn't make sense.
 
 Mike decided, with a few others, to make a point and prove that publishing and using this data could be done quickly and cheaply; actually it took roughly 24 hours (that's fast) and turned out to be __COMPLETELY FREE!!! :)__
