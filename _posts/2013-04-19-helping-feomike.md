@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Helping feoMike
-desc: Some really good experience gained, with design, with maps, and with github. Had a great time working on it with him. And would do it again, <strong>anytime</strong>.
+desc: Some really good experience gained, with design, with maps, and with github. Had a great time working on it with him. And would do it again, <strong>ANYTIME</strong>.
 date: April 20, 2013
 
 permalink: /posts/helping-feomike.html
