@@ -1,14 +1,13 @@
 @import url(http://fonts.googleapis.com/css?family=Bitter|Source+Sans+Pro:400,700);
 
-.container-fluid {
-  margin: 0 auto;
-  max-width: 700px;
-}
-
 body {
   font-family: "Source Sans Pro", Calibri,"Helvetica Neue",Helvetica,Arial,sans-serif;
   font-size: 14px;
   line-height: 22px;
+}
+.container-fluid {
+  margin: 0 auto;
+  max-width: 700px;
 }
 a:link, a:visited {
   border-bottom: 1px solid #006699;
@@ -66,6 +65,7 @@ a.awolfe76:hover {
 }
 #header a.btn {
   border: 0 outset rgba(0, 0, 0, 0.2);
+  margin-top: 10px;
 }
 a.btn:link, a.btn:visited {
   background-color: #ffffff;
@@ -91,8 +91,8 @@ a.btn:link, a.btn:visited {
   -o-transition: .5s; /* Opera */
 }
 a.btn:hover {
-  background-color: #999999;
-  background-color: rgba(255, 255, 255, .5);
+  background-color: #000000;
+  background-color: rgba(0, 0, 0, 1);
   color: #ffffff;
   color: rgba(255, 255, 255, 1);
 }
