@@ -131,14 +131,23 @@ a.btn:hover {
 #footer a {
   border-bottom: none;
 }
-.github:hover {
+.github {
   fill: #4083C4;
 }
-.dribbble:hover {
+.dribbble {
   fill: #EA548C;
 }
-.twitter:hover {
+.twitter {
   fill: #00BBF5;
+}
+.github:hover {
+  fill: #000000;
+}
+.dribbble:hover {
+  fill: #000000;
+}
+.twitter:hover {
+  fill: #000000;
 }
 
 @media (max-width: 767px) {
@@ -151,5 +160,8 @@ a.btn:hover {
   }
   #header .btn {
     margin-bottom: 20px;
+  }
+  .pull-right {
+    float: none;
   }
 }
