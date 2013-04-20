@@ -116,6 +116,10 @@ a.btn:hover {
   margin-top: 40px;
   padding: 40px 0 30px;
 }
+#footer a.btn {
+  border: 0 outset rgba(0, 0, 0, 0.2);
+  margin-bottom: 10px;
+}
 
 @media (max-width: 767px) {
   body {
