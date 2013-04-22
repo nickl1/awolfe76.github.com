@@ -6,7 +6,7 @@ date: April 22, 2013
 
 permalink: /posts/agile-development-process.html
 ---
-I had dabbled with an Agile Development approach before. A few of my old teams had implemented scrums, but the idea never really took.
+I had dabbled with an [Agile Development](http://en.wikipedia.org/wiki/Agile_software_development) approach before. A few of my old teams had implemented scrums, but the idea never really took.
 
 A few months ago I was lucky enough to take part in a week long course on Agile, its methods, and the ideas behind it. The key to this course, at least for me, was the instructor. He practice what he preached, was enthusiastic, and even taught the course using an Agile approach. I say "lucky" because I loved it, I got it, and I wanted to start using it.
 
