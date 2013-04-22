@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Please, Please, Please Stop Centralizing Everything
-desc: I have witnessed first hand the centralization of a process. And also witnessed first hand how miserable it failed, without the proper training and resources given to the centralization. <strong>SO STOP IT!</strong>
+desc: I have witnessed first hand the centralization of a process. And also witnessed first hand how miserable it failed, without the proper training and resources given to the centralization. <strong>STOP.</strong>
 date: April 22, 2013
 
 permalink: /posts/stop-centralizing-please.html
