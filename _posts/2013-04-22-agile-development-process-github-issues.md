@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First Project using Agile - Part 2 - Using Github Isses with Agile
+title: First Project using Agile - Part 2 - Using Github Issues with Agile
 desc: One of those lessons I learned from my teams Agile development process is that I don't think we need Trello. I think we can accomplish everything with Github Issues and labels. <strong>SIMPLIFY. EVERYTHING IN ONE PLACE.</strong>
 date: April 22, 2013
 
