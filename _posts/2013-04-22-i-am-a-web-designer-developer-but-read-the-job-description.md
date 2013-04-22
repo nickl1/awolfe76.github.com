@@ -6,12 +6,6 @@ date: April 22, 2013
 
 permalink: /posts/i-am-a-web-designer-developer-but-read-the-job-description.html
 ---
-<hr>
-
-I have had this post on the back burner of some time. Inspired to get it done by [@mdo](https://twitter.com/mdo) and his [The Designer-Developer spectrum](http://markdotto.com/2013/04/22/designer-developer-spectrum/) post.
-
-<hr>
-
 I’ve been a web designer / developer for almost 15 years. Wow, that's a long time to have a single job title. But technology changes so much, even within a small corner of it, that the job title (or, at the very least, the description of it) changes too.
 
 At the beginning, 15 years ago, the job description would have probably included:
@@ -65,3 +59,7 @@ Ok, now I have a headache and have realized I have to get back to work because I
 So I'll keep my job title, please just realize that calling me a web designer / developer means a lot more these days.
 
 <strong>** NOTE:</strong> None of this is a complaint. I love what I do. I am lucky that way.
+
+<hr>
+
+I have had this post on the back burner of some time. Inspired to get it done by [@mdo](https://twitter.com/mdo) and his [The Designer-Developer spectrum](http://markdotto.com/2013/04/22/designer-developer-spectrum/) post.
