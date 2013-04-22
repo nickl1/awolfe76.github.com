@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First Project using Agile - Part 1 - The Evolving Process
+title: Part 1 - First Project using Agile - The Evolving Process
 desc: A quick look at how my small team at the FCC is beginning to use Agile methods to develop a web application; the tools, the methods, the lessons we're learning. <strong>SO FAR, SO GOOD.</strong>
 date: April 22, 2013
 
