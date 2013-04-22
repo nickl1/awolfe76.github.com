@@ -1,3 +1,5 @@
 ---
 layout: archives
+
+title: Archives
 ---
