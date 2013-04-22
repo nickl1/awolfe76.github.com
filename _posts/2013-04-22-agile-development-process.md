@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First Project using Agile - Part 1
+title: First Project using Agile - Part 1 - The Evolving Process
 desc: A quick look at how my small team at the FCC is beginning to use Agile methods to develop a web application; the tools, the methods, the lessons we're learning. <strong>SO FAR, SO GOOD.</strong>
 date: April 22, 2013
 
@@ -24,3 +24,5 @@ Luckily a small team at the FCC had a project in the works so we decided to make
 We have been using [Trello](http://trello.com) for our story board, [Github](http://github.com) to for our code versioning, and [Github Issues](https://github.com/blog/831-issues-2-0-the-next-generation) to track our issues.
 
 I don't claim to be an Agile expert, but our project is running very smoothly and we are currently way ahead of schedule. I can't help but think that Agile is at least part of the reason. We are learning more about the process as we go and how we can tweak it to suit <strong>our teams</strong> needs; Agile is (and should be) flexible. More to come as we continue the project.
+
+Part 2 of the Agile Development process - [Github Issues](/posts/using-github-and-github-issues-with-agile.html)
