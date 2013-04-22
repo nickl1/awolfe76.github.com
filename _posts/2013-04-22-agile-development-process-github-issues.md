@@ -35,3 +35,6 @@ Here is what I have proposed to my team:
     - Based on the testing, it is possible that we will push known bugs to production but we will not push a major bug.
     - The code that will be sent for ops for production will be that latest tag.
 
+The goal is to simplify the process by having everything in one place; all tasks, issues, the code. But again, our process is evolving ... hopefully for the better.
+
+Part 1 of the Agile Development process - [The Evolving Process](/posts/agile-development-process.html)
