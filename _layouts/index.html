@@ -3,13 +3,20 @@
         <div class="row-fluid">
             <div class="span12">
                 {% for post in site.posts %}
-                    <hgroup>
-                        <h1><a href="{{ post.permalink }}">{{ post.title }}</a></h1>
-                    </hgroup>
-                    <p class="date">{{ post.date | date: "%B %d, %Y" }}</p>
-                    {{ post.desc }}
+                    {% if forloop.index <= 5 %}
+                        <hgroup>
+                            <h1><a href="{{ post.permalink }}">{{ post.title }}</a></h1>
+                        </hgroup>
+                        <p class="date">{{ post.date | date: "%B %d, %Y" }}</p>
+                        {{ post.desc }}
+                    {% endif %}
                 {% endfor %}
             </div>        
+        </div>
+        <div class="row-fluid">
+            <div class="span12">
+                <a class="btn archive" href="/archive.html">Archives</a>
+            </div>
         </div>
     </div>
 {% include footer.html %}
