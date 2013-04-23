@@ -10,7 +10,7 @@ In [Part 1 of the Agile Development process](/posts/agile-development-process.ht
 
 Here is what I have proposed to my team:
 
-#### Change Management (CM) Process
+### Change Management (CM) Process
 - Create cards for tasks, the backlog, on a post-it notes.
 - Create issues in Github for the backlog, no labels.
 - Decide what’s in a sprint.
