@@ -12,7 +12,9 @@ During a recent purchase of a new pop-up camper we can across a few mishaps.
 - the lock didn't work (turned out to be the wrong key)
 - the extension cord to charge the battery was missing
 
-The last issue is what started the conversation. Because of the other issues the salesman was going to <strong>give</strong> me the extension cord and he used the lines "I just want to get it done now. You've been through enough with this already and if I go 'by the book' it will take forever to get you something you need and should have had in the first place."
+### Just get the job done
+
+The last issue is what started the conversation. Because of the other issues the salesman was going to __give__ me the extension cord and he used the lines "I just want to get it done now. You've been through enough with this already and if I go 'by the book' it will take forever to get you something you need and should have had in the first place."
 
 WOW! I say that on an almost daily basis. At least the "I just want to get it done" part. So many times there is so much red-tape in the way that something that should take an hour, or even a few seconds, takes days or weeks instead. As in this case, he grabbed the cord from another pop-up and handed it to me. Had he gone "by the book" the cord would have had to have been shipped to me or I would have had to return to pick it up.
 

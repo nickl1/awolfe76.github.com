@@ -8,7 +8,7 @@ permalink: /posts/designing-the-state-sequester-project.html
 ---
 <hr>
 
-#### Update
+### Update
 
 <p class="date">April 19, 2013</p>
 

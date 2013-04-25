@@ -10,4 +10,4 @@ In a recent conversation regarding a redesign of a website to use a responsive d
 
 Responsive design allows us to account for any screen size (NOT DEVICES), it allows us to build once for all of them. It also makes us consider or even re-consider our content, what's important and what isn't, what should be the focus, what do we need, what don't we need.
 
-It's a great way to think about and build websites, and for the next few years will probably get even better. So let's do it and if something better comes along in a few years, well, we'll worry about that then. But <strong>YES</strong>, we will probably be doing this again.
+It's a great way to think about and build websites, and for the next few years will probably get even better. So let's do it and if something better comes along in a few years, well, we'll worry about that then. But __YES__, we will probably be doing this again.
