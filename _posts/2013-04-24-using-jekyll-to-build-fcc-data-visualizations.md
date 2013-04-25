@@ -17,7 +17,7 @@ A few options came up -
 
 ### Let's do what we think is right
 
-We decided we would do our best to fit it into fcc.gov. I started working to create a page in the CMS (Drupal), removed the "right-rail", and inserted an iframe to pull in the Github page. It worked … but not well. Due to the restrictions of the FCC Drupal theme, specifically the narrow fixed with, the visualizations either lost their flare or got cut off. Tweaking here and there got us 90-99% of the way there, but never 100%. But it did work.
+We decided we would do our best to fit it into fcc.gov. I started working to create a page in the CMS (Drupal), removed the "right-rail", and inserted an iframe to pull in the Github page. It worked … but not well. Due to the restrictions of the FCC Drupal theme, specifically the narrow fixed with, the visualizations either lost their flair or got cut off. Tweaking here and there got us 90-99% of the way there, but never 100%. But it did work.
 
 ### Now let's do what's best
 
