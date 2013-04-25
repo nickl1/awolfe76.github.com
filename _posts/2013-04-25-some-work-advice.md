@@ -49,4 +49,6 @@ I have great story ... maybe some other time. Just __ALWAYS__ pay attention to w
 
 It's easy to over complicate and hard to keep it simple. But simple will allow you to change quickly, and you __WILL__ have to change quickly.
 
+<hr>
+
 I like this. It will help me remember too. More to come ...
