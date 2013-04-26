@@ -38,8 +38,9 @@
 <script>
 $(document).ready(function() {
     alert ("hi eric");
-    var parts=document.URL.split("/");
-    var myurl = "http://www.broadbandmap.gov/broadbandmap/broadband/jun2012/wireline?latitude=" + parts[parts.length-2] + "&longitude=" + parts[parts.length-1] +"&format=jsonp";
+    var parts=document.URL.split("?");
+    var latlong = parts[1].split("/");
+    var myurl = "http://www.broadbandmap.gov/broadbandmap/broadband/jun2012/wireline?latitude=" + latlong[0] + "&longitude=" + latlong[1] +"&format=jsonp";
     $.ajax({
       url:myurl,
       dataType: 'jsonp',
