@@ -86,7 +86,7 @@ a.btn:link, a.btn:visited {
   -webkit-transition: .5s; /* Safari and Chrome */
   -o-transition: .5s; /* Opera */
 }
-a.btn:hover {
+a.btn:hover, a.btn.active {
   background-color: #000000;
   background-color: rgba(0, 0, 0, 1);
   color: #ffffff;
@@ -112,7 +112,7 @@ a.source:hover {
   color: #ffffff;
   color: rgba(255, 255, 255, 1);
 }
-a.btn.archive {
+.content a.btn.archive {
   margin-top:40px;
 }
 
@@ -150,12 +150,23 @@ a.btn.archive {
 }
 .github {
   fill: #4083C4;
+  transition: .5s;
+  -moz-transition: .5s; /* Firefox 4 */
+  -webkit-transition: .5s; /* Safari and Chrome */
+  -o-transition: .5s; /* Opera */
 }
 .dribbble {
   fill: #EA548C;
+  transition: .5s;
+  -moz-transition: .5s; /* Firefox 4 */
+  -webkit-transition: .5s; /* Safari and Chrome */
+  -o-transition: .5s; /* Opera */
 }
 .twitter {
-  fill: #00BBF5;
+  fill: #00BBF5;transition: .5s;
+  -moz-transition: .5s; /* Firefox 4 */
+  -webkit-transition: .5s; /* Safari and Chrome */
+  -o-transition: .5s; /* Opera */
 }
 .github:hover {
   fill: #000000;
