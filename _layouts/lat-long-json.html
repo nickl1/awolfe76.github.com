@@ -37,19 +37,18 @@
 
 <script>
 $(document).ready(function() {
-    alert ("hi eric");
-    var parts=document.URL.split("?");
+    var parts = document.URL.split("?");
     var latlong = parts[1].split("/");
     var myurl = "http://www.broadbandmap.gov/broadbandmap/broadband/jun2012/wireline?latitude=" + latlong[0] + "&longitude=" + latlong[1] +"&format=jsonp";
     $.ajax({
-      url:myurl,
-      dataType: 'jsonp',
-      success:function(json){
-        $("#json").html(JSON.stringify(json));
-      },
-      error:function(){
-        alert ("something went wrong");
-      },
+        url:myurl,
+        dataType: 'jsonp',
+        success:function(jsonp) {
+            $("#json").html(JSON.stringify(jsonp));
+        },
+        error:function(){
+            $("#json").html("Something went terribly wrong.");
+        }
     });
 }); 
 </script>
