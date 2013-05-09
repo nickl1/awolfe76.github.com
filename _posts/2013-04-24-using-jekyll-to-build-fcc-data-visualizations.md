@@ -5,6 +5,16 @@ desc: Then a day or two later I got an email from Eric. I could go copy and past
 
 permalink: /posts/using-jekyll-to-build-fcc-data-visualizations.html
 ---
+<hr>
+
+### Update
+
+<p class="date">May 8, 2013</p>
+
+We made the [FCC.gov home page](http://fcc.gov) (look for the International Call Traffic carousel)! While that may not seem like a huge deal, I think it's a huge deal because the FCC is recognizing using Github, gh-pages, and D3.
+
+<hr>
+
 A few days ago I had a quick, 30 minute or so, conversation with  Mike Byrne [(@byrne_tweets)](https://twitter.com/byrne_tweets) and Eric Spry [(@xactoeric)](https://twitter.com/xactoeric). They had a couple of visualizations, created by Xiaoming Qin [(@qinxiaoming)](https://twitter.com/qinxiaoming), that they wanted published with the only basic requirement being that it would be hosted on Github.
 
 ### Options
