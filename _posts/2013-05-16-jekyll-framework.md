@@ -28,7 +28,7 @@ It's pretty straight forward. All the structure you need.
 - index.md
 - README.md
 
-### [Bootstrap](id:bootstrap)
+### Bootstrap{#boostrap}
 
 I use [Bootstrap](http://twitter.github.io/bootstrap/) a lot. I love the responsive grid. Included in this bootstrap.css is pretty much just that, the responsive grid, responsive nav, and btn, so it's significantly smaller than the usual download. I find that is all I typically use from Bootstrap. It's quick to customize it too.
 
