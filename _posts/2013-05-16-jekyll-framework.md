@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Quick Jekyll Framework
-desc: I've been using Jekyll a lot more frequently so it just made sense to create a quick framework to get started.
+desc: I've been using Jekyll a lot more frequently so it just made sense to create a quick framework to get started. <strong>Quick and straightforward.</strong>
 
 permalink: /posts/a-quick-jekyll-framework.html
 ---
