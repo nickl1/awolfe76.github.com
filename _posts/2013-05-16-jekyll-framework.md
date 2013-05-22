@@ -2,6 +2,7 @@
 layout: post
 title: A Quick Jekyll Framework
 desc: I've been using Jekyll a lot more frequently so it just made sense to create a quick framework to get started. <strong>Quick and straightforward.</strong>
+date: May 16, 2013
 
 permalink: /posts/a-quick-jekyll-framework.html
 ---
