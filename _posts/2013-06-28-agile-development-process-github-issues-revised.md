@@ -36,4 +36,5 @@ The goal is to simplify the process by having everything in one place; all tasks
 <hr>
 
 Part 1 of the Agile Development process - [The Evolving Process](/posts/agile-development-process.html)
+
 Part 2 of the Agile Development process - [Github Issues](/posts/using-github-and-github-issues-with-agile.html)

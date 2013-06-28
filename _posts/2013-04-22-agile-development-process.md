@@ -34,4 +34,5 @@ Our project is running very smoothly and we are currently way ahead of schedule.
 <hr>
 
 Part 2 of the Agile Development process - [Github Issues](/posts/using-github-and-github-issues-with-agile.html)
+
 Part 3 of the Agile Development process - [Milestons](/posts/using-github-and-github-issues-with-agile-milestones.html)
