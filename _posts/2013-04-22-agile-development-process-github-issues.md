@@ -12,9 +12,9 @@ Here is what I have proposed to my team:
 
 ### Change Management (CM) Process
 
-- Create cards for tasks, the backlog, on a post-it notes.
+- Create cards for tasks, the backlog, on post-it notes.
 - Create issues in Github for the backlog, no labels.
-- Decide what’s in a sprint.
+- Decide what is in a sprint.
 - Label current issues as “current sprint”.
 - When complete the developer closes the issue by using the commit message method and labels it “done”.
     - We have to go to Github to add the label.
@@ -41,3 +41,4 @@ The goal is to simplify the process by having everything in one place; all tasks
 <hr>
 
 Part 1 of the Agile Development process - [The Evolving Process](/posts/agile-development-process.html)
+Part 3 of the Agile Development process - [Milestons](/posts/using-github-and-github-issues-with-agile-milestones.html)
