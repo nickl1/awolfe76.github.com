@@ -11,6 +11,4 @@ github: https://github.com/awolfe76
 twitter: https://twitter.com/awolfe76
 
 #build config
-server: true
-auto: true
 markdown: rdiscount
