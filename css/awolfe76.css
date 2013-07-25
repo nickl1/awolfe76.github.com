@@ -147,6 +147,7 @@ a.source:hover {
 
 #footer {
   color: #999999;
+  font-size: 14px;
   padding: 40px 0 30px;
 }
 #footer a.btn {
@@ -155,6 +156,8 @@ a.source:hover {
 #footer a {
   border-bottom: none;
 }
+
+.social { float: right; }
 .github {
   fill: #4083C4;
   transition: .75s;
@@ -192,5 +195,9 @@ a.source:hover {
   }
   .container-fluid {
     padding: 0 10px;
+  }
+  .social {
+    float: none;
+    margin-bottom: 20px;
   }
 }
